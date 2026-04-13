@@ -1,7 +1,7 @@
 # IRMouse
 Ever had your mouse break on you a week before starting something important ion your computer, and you're broke?:
 IRMouse is an Infrared light based device to "Telekenetically" control your computers cursor!
-# WIP!
+# Status: Digital Architecture & BOM Finalized. Moving to Physical Assembly
 # How to use?
 There will be a calibrate button on your ring finger where you will be prompted to set your hand placement to each corners of your monitor!
 L/R clicks will be assigned to your pointer and middle fingers, Pinch to click!
